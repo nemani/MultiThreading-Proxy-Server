@@ -1,0 +1,16 @@
+assignments
+code-workspace
+compcert
+compiler-explorer
+coq
+cpdt
+eth-work-daily-reports
+ghc
+notes-2018
+paper-automatic-accelerator-generation-with-unified-memory
+ppcg
+proofs
+softwarefoundations
+sxhc
+tutorials
+VPL
