@@ -1,0 +1,5 @@
+Go to the folders Q1 and Q2. Use the makefile to build. make time.
+(NOTE: makefile expects clang to be present. rename clang to gcc if required)
+
+20161027 - Arjun Nemani
+20161105 - Siddharth Bhat
